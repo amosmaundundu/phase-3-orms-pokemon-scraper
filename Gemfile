@@ -2,10 +2,10 @@ source "https://rubygems.org"
 
 
 # Scraping
-gem 'nokogiri'
+gem 'nokogiri', '1.13.8'
 
 # Database
-gem 'sqlite3', '~>1.3.6'
+gem 'sqlite3', '1.5.3'
 
 # Testing
 gem 'rspec', '>= 3.0'
